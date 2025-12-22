@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "679848744268",
+    "project_id": "wanderlust-app-d11ea",
+    "storage_bucket": "wanderlust-app-d11ea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679848744268:android:eb6a82f221825b5133abe9",
+        "android_client_info": {
+          "package_name": "com.example.wanderly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvm5HJpSZktDg07yJ2wu7ei3JG3SI5TC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
